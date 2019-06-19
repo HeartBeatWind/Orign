@@ -6,6 +6,8 @@ what to eat tonight?
 
 just edit the file as vim does
 
-tomorow a test I didn't like will happen
+wind~
 
 gaige spring wind blow to all ground
+
+today is great right?
